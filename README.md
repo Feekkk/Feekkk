@@ -6,11 +6,12 @@
 
 ## 🎓 About Me
 
-I'm a **Computer Science student** at **Universiti Teknologi MARA (UiTM)**, passionate about technology and software development. Currently exploring the vast world of programming and building projects that solve real-world problems.
+I'm a **Computer Science student** at **Universiti Teknologi MARA (UiTM)**, passionate about technology and software development. Currently exploring the vast world of programming and building projects that solve real-world problems. Im also currently make internship in **Universiti Kuala Lumpur Royal College of Medicine Perak** as **software developer**.
 
 - 🎯 **Focus**: Full-stack development with a strong interest in modern web technologies
-- 🌱 **Currently Learning**: Advanced React.js, backend development, and software engineering principles
-- 🏫 **Education**: Bachelor's in Computer Science @ UiTM
+- 🏢 **Internship**: Internship in UniKL Royal College Medicine Perak
+- 🌱 **Currently Learning**: React.js, Next.js, Laravel, backend development, and software engineering principles
+- 🏫 **Education**: Bachelor's in Computer Science Netcentric Computing @ UiTM
 - 🇲🇾 **Location**: Malaysia
 - 💡 **Interests**: Web development, mobile apps, and emerging technologies
 
@@ -18,7 +19,6 @@ I'm a **Computer Science student** at **Universiti Teknologi MARA (UiTM)**, pass
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -35,7 +35,6 @@ I'm a **Computer Science student** at **Universiti Teknologi MARA (UiTM)**, pass
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -43,19 +42,13 @@ I'm a **Computer Science student** at **Universiti Teknologi MARA (UiTM)**, pass
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feekkk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
-## 🚀 Current Projects
-
-- 🔭 **React.js Application**: Building a modern web application with React
-- 📚 **Academic Projects**: Various CS coursework and assignments
-- 🌐 **Personal Portfolio**: Developing my professional portfolio website
-
 ## 🎯 Goals for 2025
 
 - Master full-stack development
 - Contribute to open-source projects
 - Complete internship in software development
 - Build and deploy 3+ major projects
-- Learn cloud technologies (AWS/Azure)
+- Learn cloud technologies (AWS and PLESK)
 
 ## 🤝 Let's Connect!
 
