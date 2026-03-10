@@ -6,10 +6,9 @@
 
 ## 🎓 About Me
 
-I'm a **Computer Science student** at **Universiti Teknologi MARA (UiTM)**, passionate about technology and software development. Currently exploring the vast world of programming and building projects that solve real-world problems. Im also currently make internship in **Universiti Kuala Lumpur Royal College of Medicine Perak** as **software developer**.
+I'm a **Computer Science student** at **Universiti Teknologi MARA (UiTM)**, passionate about technology and software development. Currently exploring the vast world of programming and building projects that solve real-world problems. Im also currently full time **Software Developer** in **Universiti Kuala Lumpur Royal College of Medicine Perak**.
 
 - 🎯 **Focus**: Full-stack development with a strong interest in modern web technologies
-- 🏢 **Internship**: Internship in UniKL Royal College Medicine Perak
 - 🌱 **Currently Learning**: React.js, Next.js, Laravel, backend development, and software engineering principles
 - 🏫 **Education**: Bachelor's in Computer Science Netcentric Computing @ UiTM
 - 🇲🇾 **Location**: Malaysia
