@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Feekkk 👋
+# Hi, I'm Afiq 👋
 
-### Software Developer @ UniKL Royal College of Medicine Perak | CS Student @ UiTM
+### Full-Stack Developer @ UniKL Royal College of Medicine Perak | Bachelor of Computer Science Netcentric Computing @ UiTM
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=500&lines=Full-Stack+Software+Developer;React+%7C+Node.js+%7C+Laravel;Building+Real-World+University+Systems;Always+Learning+New+Things" alt="Typing SVG" />
 
