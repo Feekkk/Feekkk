@@ -32,141 +32,6 @@ interests: Web development, mobile apps, emerging tech
 - 💡 Interested in web development, mobile apps, and emerging technologies
 - 📫 Open to collaborating on interesting projects — reach out anytime!
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://unpkg.com/lucide-static@latest/icons/braces.svg" width="32" height="32" alt="JavaScript" />
-      <br />
-      <sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://unpkg.com/lucide-static@latest/icons/file-code.svg" width="32" height="32" alt="PHP" />
-      <br />
-      <sub><b>PHP</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://unpkg.com/lucide-static@latest/icons/coffee.svg" width="32" height="32" alt="Java" />
-      <br />
-      <sub><b>Java</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://unpkg.com/lucide-static@latest/icons/binary.svg" width="32" height="32" alt="C++" />
-      <br />
-      <sub><b>C++</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://unpkg.com/lucide-static@latest/icons/globe.svg" width="32" height="32" alt="HTML5" />
-      <br />
-      <sub><b>HTML5</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://unpkg.com/lucide-static@latest/icons/palette.svg" width="32" height="32" alt="CSS3" />
-      <br />
-      <sub><b>CSS3</b></sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-### Frameworks & Libraries
-
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://unpkg.com/lucide-static@latest/icons/atom.svg" width="32" height="32" alt="React" />
-      <br />
-      <sub><b>React</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://unpkg.com/lucide-static@latest/icons/layout-template.svg" width="32" height="32" alt="Next.js" />
-      <br />
-      <sub><b>Next.js</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://unpkg.com/lucide-static@latest/icons/layers.svg" width="32" height="32" alt="Laravel" />
-      <br />
-      <sub><b>Laravel</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://unpkg.com/lucide-static@latest/icons/server.svg" width="32" height="32" alt="Node.js" />
-      <br />
-      <sub><b>Node.js</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://unpkg.com/lucide-static@latest/icons/route.svg" width="32" height="32" alt="Express.js" />
-      <br />
-      <sub><b>Express.js</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://unpkg.com/lucide-static@latest/icons/layout-grid.svg" width="32" height="32" alt="Bootstrap" />
-      <br />
-      <sub><b>Bootstrap</b></sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-### Tools & Technologies
-
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://unpkg.com/lucide-static@latest/icons/git-branch.svg" width="32" height="32" alt="Git" />
-      <br />
-      <sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://unpkg.com/lucide-static@latest/icons/git-commit.svg" width="32" height="32" alt="GitHub" />
-      <br />
-      <sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://unpkg.com/lucide-static@latest/icons/terminal.svg" width="32" height="32" alt="VS Code" />
-      <br />
-      <sub><b>VS Code</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://unpkg.com/lucide-static@latest/icons/database.svg" width="32" height="32" alt="MySQL" />
-      <br />
-      <sub><b>MySQL</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://unpkg.com/lucide-static@latest/icons/send.svg" width="32" height="32" alt="Postman" />
-      <br />
-      <sub><b>Postman</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://unpkg.com/lucide-static@latest/icons/hard-drive.svg" width="32" height="32" alt="Laragon" />
-      <br />
-      <sub><b>Laragon</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://unpkg.com/lucide-static@latest/icons/cloud.svg" width="32" height="32" alt="Cloudflare" />
-      <br />
-      <sub><b>Cloudflare</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://unpkg.com/lucide-static@latest/icons/server-cog.svg" width="32" height="32" alt="PLESK" />
-      <br />
-      <sub><b>PLESK</b></sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -188,7 +53,6 @@ I'm always happy to connect with fellow developers, students, and tech enthusias
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wanafiqdanial03)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wanafiq.d03@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://me.wnafiq.xyz)
 
 </div>
 
@@ -197,5 +61,5 @@ I'm always happy to connect with fellow developers, students, and tech enthusias
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Feekkk&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <br/>
-  <i>⭐️ From <a href="https://github.com/Feekkk">Feekkk</a> — Always coding, always learning!</i>
+  <i>From <a href="https://github.com/Feekkk">Feekkk</a> — dont stop until you make it</i>
 </div>
