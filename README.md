@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Afiq 👋
+# Hi, I'm Afiq
 
 ### Full-Stack Developer @ UniKL Royal College of Medicine Perak | Bachelor of Computer Science Netcentric Computing @ UiTM
 
@@ -8,13 +8,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wanafiqdanial03)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wanafiq.d03@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://me.wnafiq.xyz)
 
 </div>
 
 <br/>
 
-## 🎓 About Me
+## About Me
 
 I'm a **Software Developer** at **Universiti Kuala Lumpur, Royal College of Medicine Perak (UniKL RCMP)**, where I build and maintain internal web systems used across the university. I'm also pursuing a **Bachelor of Computer Science (Hons) in Netcentric Computing** at **Universiti Teknologi MARA (UiTM)**.
 
@@ -32,34 +31,6 @@ interests: Web development, mobile apps, emerging tech
 - 💡 Interested in web development, mobile apps, and emerging technologies
 - 📫 Open to collaborating on interesting projects — reach out anytime!
 
-## 📊 GitHub Stats
-
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Feekkk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feekkk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Feekkk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-## 🤝 Let's Connect
-
-I'm always happy to connect with fellow developers, students, and tech enthusiasts — whether it's to collaborate on a project, talk shop, share resources, or just network.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wanafiqdanial03)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wanafiq.d03@gmail.com)
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Feekkk&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <br/>
-  <i>From <a href="https://github.com/Feekkk">Feekkk</a> — dont stop until you make it</i>
+  <i>Don't stop until you make it</i>
 </div>
