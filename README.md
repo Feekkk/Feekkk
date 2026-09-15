@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Afiq
+# Hi, I'm Afiq !
 
-### Full-Stack Developer @ UniKL Royal College of Medicine Perak | Bachelor of Computer Science Netcentric Computing @ UiTM
+### Full-Stack Developer @ UniKL Royal College of Medicine Perak | Bachelor of Computer Science (HONS) Netcentric Computing @ UiTM
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=500&lines=Full-Stack+Software+Developer;React+%7C+Node.js+%7C+Laravel;Building+Real-World+University+Systems;Always+Learning+New+Things" alt="Typing SVG" />
 
@@ -18,10 +18,11 @@
 I'm a **Software Developer** at **Universiti Kuala Lumpur, Royal College of Medicine Perak (UniKL RCMP)**, where I build and maintain internal web systems used across the university. I'm also pursuing a **Bachelor of Computer Science (Hons) in Netcentric Computing** at **Universiti Teknologi MARA (UiTM)**.
 
 ```yaml
-role:      Software Developer @ UniKL RCMP
+role:      Full-Stack Developer @ UniKL RCMP
 education: B.CS (Hons) Netcentric Computing @ UiTM
-focus:     Full-stack development, modern web technologies
-stack:     React.js · Node.js · Laravel · MySQL
+focus:     Full-stack development, modern web technologies, AI technology
+stack:     React.js · Node.js · Laravel · MySQL · React Native · Flutter
+tools:     Plesk Web Server, Azure, Google Cloud
 location:  Malaysia 🇲🇾
 interests: Web development, mobile apps, emerging tech
 ```
