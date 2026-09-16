@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer @ UniKL Royal College of Medicine Perak | Bachelor of Computer Science (HONS) Netcentric Computing @ UiTM
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=500&lines=Full-Stack+Software+Developer;React+%7C+Node.js+%7C+Laravel;Building+Real-World+University+Systems;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Laravel;Building+Real-World+University+Systems;Always+Learning+New+Things" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wanafiqdanial03)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wanafiq.d03@gmail.com)
